@@ -1,0 +1,10 @@
+PROYECTO COMPLETO PARA ANDROID STUDIO
+1) Descomprime el zip.
+2) Android Studio > File > Open > selecciona la carpeta MiPrimerProyecto (la que tiene settings.gradle). Espera el "Gradle Sync".
+3) Reemplaza app/src/main/res/drawable/fondo.9.png por el fondo del curso:
+      pip install pillow
+      python tools/make_ninepatch.py imagen_del_curso.png fondo.9.png
+   (o clic derecho en la imagen > Create 9-Patch file)
+4) Run (triángulo verde) con un emulador o tu celular.
+Probar idiomas: cambia el idioma del emulador a ES / EN / FR / DE.
+Si Android Studio pide actualizar versiones de Gradle o del plugin, acepta (Upgrade).

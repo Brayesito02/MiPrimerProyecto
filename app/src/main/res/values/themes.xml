@@ -1,0 +1,3 @@
+<resources>
+    <style name="Theme.MiPrimerProyecto" parent="Theme.AppCompat.DayNight.NoActionBar" />
+</resources>
